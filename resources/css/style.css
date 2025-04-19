@@ -1,0 +1,7 @@
+
+/* public/css/style.css */
+img {
+    max-width: 100px;  /* Ограничиваем ширину изображения до 300px */
+    height: auto;      /* Сохраняем пропорции */
+}
+
