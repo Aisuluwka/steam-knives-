@@ -15,7 +15,7 @@ Steam Knives Shop
 - Laravel Breeze
 - Tailwind CSS
 - MySQL
-- Livewire (или Vue, если ты его использовала)
+- Livewire 
 
 Запуск проекта
 
